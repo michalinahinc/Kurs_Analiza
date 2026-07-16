@@ -1,0 +1,51 @@
+Stan;Skrot;Region;Strefa czasowa;Stan rolniczy;Stan przemyslowy;Wazny turystycznie
+Alabama;AL;South;CST / EST;Tak;Tak;Nie
+Alaska;AK;West;AKST / PST;Nie;Nie;Tak
+Arizona;AZ;West;MST;Nie;Tak;Tak
+Arkansas;AR;South;CST;Tak;Tak;Nie
+California;CA;West;PST;Tak;Tak;Tak
+Colorado;CO;West;MST;Tak;Nie;Tak
+Connecticut;CT;Northeast;EST;Nie;Tak;Nie
+Delaware;DE;South;EST;Nie;Tak;Nie
+Florida;FL;South;EST / CST;Tak;Tak;Tak
+Georgia;GA;South;EST;Tak;Tak;Tak
+Hawaii;HI;West;HST;Nie;Nie;Tak
+Idaho;ID;West;MST / PST;Tak;Nie;Nie
+Illinois;IL;Midwest;CST;Tak;Tak;Tak
+Indiana;IN;Midwest;EST / CST;Tak;Tak;Nie
+Iowa;IA;Midwest;CST;Tak;Tak;Nie
+Kansas;KS;Midwest;CST / MST;Tak;Tak;Nie
+Kentucky;KY;South;EST / CST;Tak;Tak;Nie
+Louisiana;LA;South;CST;Tak;Tak;Tak
+Maine;ME;Northeast;EST;Nie;Nie;Tak
+Maryland;MD;South;EST;Nie;Nie;Nie
+Massachusetts;MA;Northeast;EST;Nie;Tak;Tak
+Michigan;MI;Midwest;EST / CST;Nie;Tak;Tak
+Minnesota;MN;Midwest;CST;Tak;Tak;Nie
+Mississippi;MS;South;CST;Tak;Tak;Nie
+Missouri;MO;Midwest;CST;Tak;Tak;Nie
+Montana;MT;West;MST;Tak;Nie;Tak
+Nebraska;NE;Midwest;CST / MST;Tak;Nie;Nie
+Nevada;NV;West;PST / MST;Nie;Nie;Tak
+New Hampshire;NH;Northeast;EST;Nie;Tak;Nie
+New Jersey;NJ;Northeast;EST;Nie;Tak;Tak
+New Mexico;NM;West;MST;Nie;Nie;Tak
+New York;NY;Northeast;EST;Nie;Tak;Tak
+North Carolina;NC;South;EST;Tak;Tak;Tak
+North Dakota;ND;Midwest;CST / MST;Tak;Nie;Nie
+Ohio;OH;Midwest;EST;Tak;Tak;Nie
+Oklahoma;OK;South;CST / MST;Tak;Tak;Nie
+Oregon;OR;West;PST / MST;Tak;Tak;Tak
+Pennsylvania;PA;Northeast;EST;Nie;Tak;Tak
+Rhode Island;RI;Northeast;EST;Nie;Nie;Tak
+South Carolina;SC;South;EST;Nie;Tak;Tak
+South Dakota;SD;Midwest;CST / MST;Tak;Nie;Tak
+Tennessee;TN;South;CST / EST;Nie;Tak;Tak
+Texas;TX;South;CST / MST;Tak;Tak;Tak
+Utah;UT;West;MST;Nie;Nie;Tak
+Vermont;VT;Northeast;EST;Tak;Nie;Tak
+Virginia;VA;South;EST;Nie;Tak;Tak
+Washington;WA;West;PST;Tak;Tak;Tak
+West Virginia;WV;South;EST;Nie;Tak;Nie
+Wisconsin;WI;Midwest;CST;Tak;Tak;Nie
+Wyoming;WY;West;MST;Tak;Nie;Tak
