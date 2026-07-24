@@ -10,7 +10,6 @@ Zespół tworzą następujące osoby:
 * Filip Kulesza
 * Klara Ostanówka
 
-
 Nasza analiza obejmuje oczyszczenie danych, wyszukiwanie wzorców, modelowanie oraz wizualiazację i interpretację.
 
 Analiza dotyczy danych dotyczących wynajmu mieszkań w Stanach Zjednoczonych pobranych ze strony [www.kaggle.com](https://www.kaggle.com) - https://www.kaggle.com/datasets/shashanks1202/apartment-rent-data.
